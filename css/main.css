@@ -1,0 +1,72 @@
+/**{outline:1px solid rgba(255,0,0,0.4);}*/
+.menu{
+	margin: 5px; margin-bottom: 5px;
+	text-align: right;
+}
+.menu li{
+	display: inline;
+	padding: auto;
+}
+.menu a{
+	color: white;
+	text-decoration: none;
+	padding: 10px 15px;
+	margin: 0px;
+}
+.listaf li{
+	list-style: none;
+	display:inline-block;
+	margin: 10px;
+	position: relative;
+	text-align: center;
+	width: 450px;
+	vertical-align: top;
+}
+.fotito{
+	width: 450px;
+	height: 300px;
+	position: relative;
+	border: 3px solid #ffffff;
+}
+.listaf p{
+	font-size: 18px;
+	position:relative;
+}
+.listaf{
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+.sub-menu{
+	margin: 5px; margin-bottom: 25px;
+}
+.sub-menu li{
+	display: inline;
+	padding:auto;
+}
+.sub-menu a{
+	color: #000000;
+	text-decoration: none;
+	padding: 10px 15px;
+	margin: 10px;
+}
+.lista-redes{
+	margin: 5px; margin-bottom: 25px;
+}
+.lista-redes li{
+	display: inline;
+	padding:auto;
+}
+.lista-redes a{
+	color: #000000;
+	text-decoration: none;
+	padding: 10px 15px;
+	margin: 10px;
+}
+.boton-header button{
+	background: #706979;
+	padding: 10px 30px;
+	border-radius: 30px;
+	margin-left: 120px;
+	color: white;
+}
